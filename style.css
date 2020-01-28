@@ -1,0 +1,83 @@
+body {
+    background-color: #1A1819;
+}
+
+.naam {
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 250%;
+    margin-top: 50px;
+    letter-spacing: 2mm;
+
+} 
+
+.school {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 90%;
+    margin-top: -30px;
+    letter-spacing: 0.5mm;
+}
+
+
+figure {
+    margin-left: 50px;
+    margin-top: 50px;
+    float: left;
+}
+
+.hi {
+    font-family: sans-serif;
+    color: white;
+    margin-top: 60px;
+    font-size: 200%;
+
+}
+
+.about {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 100%;
+    font-weight: 100;
+
+}
+
+.section1 {
+    margin-top: 50px;
+    float: auto;
+    margin: auto;
+    
+}
+
+.action {
+    margin-top: 10px;
+    float: right;
+    margin-right: 50px;
+}
+
+.future {
+    float: auto;
+    margin: auto;
+    margin-top: 250px;
+    margin-left: 440px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 100%;
+    font-weight: 100;
+}
+
+.future2 {
+    float: auto;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 440px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 100%;
+    font-weight: 100;
+}
+
+
+
